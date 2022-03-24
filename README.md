@@ -1,4 +1,4 @@
-### Olá, meu nome é Larissa! 👋
+### Hello, welcome👾 , my name is Larissa, and I'm currently studying front-end and web development, I have knowledge in HTML5, CSS3 and JavaScript.
 
 <div align="center">
   <a href="https://github.com/larissacrx">
