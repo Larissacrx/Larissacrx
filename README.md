@@ -1,4 +1,4 @@
-### Hello, welcome👾 , my name is Larissa, and I'm currently studying front-end and web development, I have knowledge in HTML5, CSS3 and JavaScript.
+### Hello, welcome👾 , my name is Larissa, I am a Full Stack Developer specializing in TypeScript, JavaScript, React.js, and Node.js, with working knowledge of Python. I am passionate about technology, continuous learning, and building solutions that create real impact.
 
 <div align="center">
   <a href="https://github.com/larissacrx">
